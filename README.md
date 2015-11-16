@@ -4,7 +4,7 @@ Otio_SHT-10_Protocol
 Here is source code to decode Otio SHT-10 Temperature and Humidity sensor using an arduino and RF433Mhz Receiver  
 This may work with some other various device clones, but has only been tested on Otio SHT-10 model.  
 
-This code is based on work on this page :  
+This code is based on following page work :  
 http://arduino.cc/forum/index.php/topic,142871.msg1106336.html#msg1106336
 
 
